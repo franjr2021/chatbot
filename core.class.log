@@ -1,0 +1,695 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '628B1703A276F114E7',
+    participant: undefined
+  },
+  messageTimestamp: 1679945517,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'F4FC5AEF0FC92E155E',
+    participant: undefined
+  },
+  messageTimestamp: 1679945530,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Te tengo que escribir yo entonces hermano 😅',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te tengo que escribir yo entonces hermano 😅',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '223A06FD1DB57E3945',
+    participant: undefined
+  },
+  messageTimestamp: 1679945633,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🤣🤣🤣🤣',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '🤣🤣🤣🤣',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: '083F20CE5F8CFBE0AC',
+    participant: undefined
+  },
+  messageTimestamp: 1679945691,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32496468_145901688142638_6104308590304476541_n.enc?ccb=11-4&oh=01_AdRI0bBSlif6z-XJKfihl1AYpfmN1AyBdkG9rsn9-hRB-A&oe=6449671E&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 27,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32496468_145901688142638_6104308590304476541_n.enc?ccb=11-4&oh=01_AdRI0bBSlif6z-XJKfihl1AYpfmN1AyBdkG9rsn9-hRB-A&oe=6449671E',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__6e76e0f8-05fd-489a-941c-1487b01e0bec',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56994173326@s.whatsapp.net',
+    fromMe: false,
+    id: 'C58D4D73DDFD15239A',
+    participant: undefined
+  },
+  messageTimestamp: 1679945942,
+  pushName: 'Cristian 🐾',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32412991_792308325768235_951027477585580469_n.enc?ccb=11-4&oh=01_AdSwtrb7t2g2K1cI_d4oZ2VzVzpANYxQ1XZs7OLAr7crQA&oe=6449469A&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 33,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32412991_792308325768235_951027477585580469_n.enc?ccb=11-4&oh=01_AdSwtrb7t2g2K1cI_d4oZ2VzVzpANYxQ1XZs7OLAr7crQA&oe=6449469A',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__2eafb54b-6b55-487a-a461-cadcd21dd760',
+  from: '56994173326'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56938948880@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6D6D7179AEF147B04A712E3C7F15B7C',
+    participant: undefined
+  },
+  messageTimestamp: 1679946097,
+  pushName: 'Kathy',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56938948880'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56938948880@s.whatsapp.net',
+    fromMe: false,
+    id: '4E8872669C037B018FCF9C7BD0410F68',
+    participant: undefined
+  },
+  messageTimestamp: 1679946108,
+  pushName: 'Kathy',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56938948880'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '83C151E59266D9D9F2D2A0FD27924258',
+    participant: undefined
+  },
+  messageTimestamp: 1679946816,
+  pushName: 'Yooooo',
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '83C151E59266D9D9F2D2A0FD27924258',
+    participant: undefined
+  },
+  messageTimestamp: 1679946817,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '83C151E59266D9D9F2D2A0FD27924258',
+    participant: undefined
+  },
+  messageTimestamp: 1679946817,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '4C7EE475B7141DC1DC40A1B08FFF693F',
+    participant: undefined
+  },
+  messageTimestamp: 1679946856,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Doc',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Doc',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: 'BCBA4524B768F2F8A14A7E9844194DA9',
+    participant: undefined
+  },
+  messageTimestamp: 1679946872,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '80E5DF510D4F07BF08A8DDFB0CDA4999',
+    participant: undefined
+  },
+  messageTimestamp: 1679946883,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: 'C989E6D9E2A737FF56305489EC9CECE2',
+    participant: undefined
+  },
+  messageTimestamp: 1679946909,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: 'F8CCCE41B5011EE2CA58692CF48DD6EF',
+    participant: undefined
+  },
+  messageTimestamp: 1679946968,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE0530BE2B3DF66A9A3F68B7E2DB7BE6',
+    participant: undefined
+  },
+  messageTimestamp: 1679946975,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '2C8CBB8CBDE14ED1BC78FE8DDA181020',
+    participant: undefined
+  },
+  messageTimestamp: 1679947005,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Discord',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Discord',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '52D3885D504158B8F4CF97722155199C',
+    participant: undefined
+  },
+  messageTimestamp: 1679947015,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '2E35F21489D80A49DB25E554B9835845',
+    participant: undefined
+  },
+  messageTimestamp: 1679947024,
+  pushName: 'Yooooo',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '👍',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '4789A893354C4C2A5E80F01709C6F9A6',
+    participant: undefined
+  },
+  messageTimestamp: 1679947028,
+  pushName: 'Yooooo',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '👍',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: 'CCE6C72325FB2D91632F65805DDC2978',
+    participant: undefined
+  },
+  messageTimestamp: 1679947042,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '8C86C7F9C3C19E731611C15002DDC2F4',
+    participant: undefined
+  },
+  messageTimestamp: 1679947052,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '1305E85CD77FD46D093CB0611C6DB5C9',
+    participant: undefined
+  },
+  messageTimestamp: 1679947058,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '6441A64EB242360FC0425FAE228BE5F8',
+    participant: undefined
+  },
+  messageTimestamp: 1679947063,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Ee',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ee',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '05A8E183333BA6DD284C03BE03FF7408',
+    participant: undefined
+  },
+  messageTimestamp: 1679947080,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '2AD4B82F3AF1192CCACA16E3AFE22025',
+    participant: undefined
+  },
+  messageTimestamp: 1679947088,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933626755@s.whatsapp.net',
+    fromMe: false,
+    id: '7BBBD66B1C36F29DE65783388F79A7F2',
+    participant: undefined
+  },
+  messageTimestamp: 1679947158,
+  pushName: 'Yooooo',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933626755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56948088002@s.whatsapp.net',
+    fromMe: false,
+    id: 'CFR4UGBDUE9TMORO87W2',
+    participant: undefined
+  },
+  messageTimestamp: 1679951891,
+  pushName: 'Agartha Marketing Agency',
+  message: Message {
+    conversation: '{{Qué tal?|Cómo estás?|Saludos|Hola}\r\n' +
+      '\r\n' +
+      'Soy una de las opciones de *ABC System* pero no nací dentro de Agartha, solo soy una idea aún aunque como ves estoy funcionando. Sin embargo cuento contigo para que ya pueda vivir siendo parte de Agartha. \r\n' +
+      '\r\n' +
+      'Sigue trabajando como hasta ahora! Gracias por tu esfuerzo en darme vida 😜\r\n' +
+      '\r\n' +
+      'Mensaje n°#1543933',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Agartha Marketing Agency',
+  body: '{{Qué tal?|Cómo estás?|Saludos|Hola}\r\n' +
+    '\r\n' +
+    'Soy una de las opciones de *ABC System* pero no nací dentro de Agartha, solo soy una idea aún aunque como ves estoy funcionando. Sin embargo cuento contigo para que ya pueda vivir siendo parte de Agartha. \r\n' +
+    '\r\n' +
+    'Sigue trabajando como hasta ahora! Gracias por tu esfuerzo en darme vida 😜\r\n' +
+    '\r\n' +
+    'Mensaje n°#1543933',
+  from: '56948088002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56948088002@s.whatsapp.net',
+    fromMe: false,
+    id: 'KHQRFKDZIGZ1OZS36DSA',
+    participant: undefined
+  },
+  messageTimestamp: 1679951963,
+  pushName: 'Agartha Marketing Agency',
+  message: Message {
+    conversation: 'Hola\r\n' +
+      '\r\n' +
+      'Soy una de las opciones de *ABC System* pero no nací dentro de Agartha, solo soy una idea aún aunque como ves estoy funcionando. Sin embargo cuento contigo para que ya pueda vivir siendo parte de Agartha. \r\n' +
+      '\r\n' +
+      'Sigue trabajando como hasta ahora! Gracias por tu esfuerzo en darme vida 😜\r\n' +
+      '\r\n' +
+      'Mensaje n°#1053926',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Agartha Marketing Agency',
+  body: 'Hola\r\n' +
+    '\r\n' +
+    'Soy una de las opciones de *ABC System* pero no nací dentro de Agartha, solo soy una idea aún aunque como ves estoy funcionando. Sin embargo cuento contigo para que ya pueda vivir siendo parte de Agartha. \r\n' +
+    '\r\n' +
+    'Sigue trabajando como hasta ahora! Gracias por tu esfuerzo en darme vida 😜\r\n' +
+    '\r\n' +
+    'Mensaje n°#1053926',
+  from: '56948088002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56948088002@s.whatsapp.net',
+    fromMe: false,
+    id: '9C672CFAABA94C36DAE7ACDDD996DAA9',
+    participant: undefined
+  },
+  messageTimestamp: 1679952257,
+  pushName: 'Agartha Marketing Agency',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ahí hay un error de lógica a corregir',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ahí hay un error de lógica a corregir',
+  from: '56948088002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56948088002@s.whatsapp.net',
+    fromMe: false,
+    id: '9B05F07E160271A745BC94C5ADCCB852',
+    participant: undefined
+  },
+  messageTimestamp: 1679952409,
+  pushName: 'Agartha Marketing Agency',
+  message: Message {
+    conversation: 'Pero sabes cuál es?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero sabes cuál es?',
+  from: '56948088002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56948088002@s.whatsapp.net',
+    fromMe: false,
+    id: '22349B2314FF620EF41A6FBAF9070CD3',
+    participant: undefined
+  },
+  messageTimestamp: 1679952416,
+  pushName: 'Agartha Marketing Agency',
+  message: Message {
+    conversation: 'Es re simple',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Es re simple',
+  from: '56948088002'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56948088002@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4C09DB6EC9A10E755DCACBA44BFDB49',
+    participant: undefined
+  },
+  messageTimestamp: 1679952447,
+  pushName: 'Agartha Marketing Agency',
+  message: Message {
+    conversation: 'El bot dió una respuesta sin que yo respondiera alguna de las opciones válidas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El bot dió una respuesta sin que yo respondiera alguna de las opciones válidas',
+  from: '56948088002'
+}
